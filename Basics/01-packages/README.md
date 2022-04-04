@@ -1,4 +1,4 @@
-#Paketler
+# Paketler
 
 Her Go programı paketlerden oluşur.
 
@@ -12,4 +12,4 @@ Kural olarak, paket adı içe aktarma yolunun son öğesiyle aynıdır.Örneğin
 
 (Farklı bir sayı görmek için sayı üretecini tohumlayın; örn. `rand.Seed`. Oyun alanında zaman sabittir, bu yüzden tohum olarak başka bir şey kullanmanız gerekecek.)
 
-- [packages.go](https://github.com/yigittopm/tour-of-go/Basics/01-packages/packages.go)
+- [packages.go](https://github.com/yigittopm/A-Tour-of-Go/tree/master/Basics/01-packages/packages.go)
