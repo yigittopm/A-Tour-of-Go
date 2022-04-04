@@ -3,7 +3,7 @@
 <br />
 <br />
 
-# A-Tour-of-Go Türkçe Kaynak
+# A Tour of Go Türkçe Kaynak
 
 Go Döküman çevirilerini ve örneklerini yazdığım bu projede katkıda bulunabilirsiniz.
 
